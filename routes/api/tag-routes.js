@@ -22,7 +22,7 @@ router.get('/:id', async (req, res) => {
   //do i make it singleTagData????
   try{ 
     const tagData = await Tag.findByPk(req.params.id, {
-      include: [{ model: Product}, {model: Category}],
+      include: [{ model: Product}],
     });
     if(!tagData) {
       res.status(404).json({message: 'No category found with that id'});
