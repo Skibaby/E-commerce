@@ -7,6 +7,7 @@ GIVEN a functional Express.js API. WHEN I add my database name, MySQL username, 
 # Deployment 
 
 
-# Walkthrough
+[Repository](https://github.com/Skibaby/E-commerce)
 
-https://www.awesomescreenshot.com/video/20963592?key=1af209c1169d27248b692fc9a74aee8d 
+# Walkthrough
+[WalkThrough Video](https://www.awesomescreenshot.com/video/20963592?key=1af209c1169d27248b692fc9a74aee8d)
